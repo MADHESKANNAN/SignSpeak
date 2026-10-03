@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+www/
+android/
+__pycache__/
+*.pyc
+*.spec
+*.mp3
+2_python_desktop/data/
+.DS_Store
+.vscode/
+.idea/
