@@ -61,7 +61,7 @@ SignSpeak_Complete/
 
 ### Option 1 · Web / PWA (easiest)
 
-1. Go to <https://app.netlify.com/drop>
+1. Go to <https://6ac146d0978355ca545f52d4--gregarious-truffle-a75f64.netlify.app/>
 2. Drag the **`1_web_pwa_app`** folder into the page.
 3. Open the https link → tap **Start Camera**.
 4. On phone/PC: browser menu → **Install app**.
